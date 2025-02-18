@@ -17,5 +17,4 @@ object Solution383 extends App {
     strTrim(ransomNote, "", magazine, 0)
 
   }
-  println(canConstruct("aa", "aab").toString())
 }
